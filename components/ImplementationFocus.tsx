@@ -22,7 +22,7 @@ export const ImplementationFocus: React.FC = () => {
             <div>
               <h4 className="font-bold text-xl text-white mb-4 underline underline-offset-8 decoration-blue-500 decoration-4">Una bocanada de aire fresco</h4>
               <p className="text-slate-400">
-                Aprovechamos la ejecución para frenar la pelota y rediseñar <span className="text-blue-300">lo que nos traba</span>. Ordenamos mientras hacemos.
+                Aprovechamos la ejecución para frenar la pelota y rediseñar <span className="text-blue-300">aquello que no nos deja avanzar</span>. Ordenamos mientras hacemos.
               </p>
             </div>
             <div>
