@@ -20,7 +20,7 @@ export const Hero: React.FC<HeroProps> = ({ onCtaClick }) => {
               tus <span className="text-blue-600 italic">ideas se hagan realidad.</span>
             </h1>
             <p className="text-xl text-slate-600 mb-8 leading-relaxed max-w-xl mx-auto lg:mx-0">
-              No venimos a decirte cómo hacer las cosas, sino a sumar manos y cabeza donde más lo necesitás para que llegues a donde querés.
+              No venimos a decirte cómo hacer las cosas. Queremos sumar nuestras manos, ideas y experiencia para desarrollar todo el potencial de tu negocio.
             </p>
             
             <div className="mb-10 p-6 bg-slate-50 rounded-2xl border-2 border-blue-100 max-w-lg mx-auto lg:mx-0 shadow-sm">
