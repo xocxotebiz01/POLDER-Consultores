@@ -5,22 +5,22 @@ export const Services: React.FC = () => {
     {
       title: "Trabajo en equipo Pyme",
       desc: "Pasar de 'la empresa soy yo' a un equipo que mide, prioriza y delega con autonomía.",
-      features: ["Tableros de control", "Delegación efectiva", "Conducción por objetivos"]
+      features: ["Tableros de control", "Delegación efectiva", "Conducción por objetivos", "Diseño organizacional"]
     },
     {
       title: "Eficiencia y Rentabilidad",
-      desc: "Optimizar lo que ya tenés para que el negocio rinda lo que debería. Menos costo, más margen.",
-      features: ["Reingeniería de procesos", "Detección de fugas", "Simplificación operativa"]
+      desc: "Optimizar lo que ya tenés para que el negocio rinda lo que debe. Menos costo, más margen.",
+      features: ["Reingeniería de procesos", "Detección de fugas", "Simplificación operativa", "Integración tecnológica"]
     },
     {
       title: "Soluciones de Reclutamiento",
-      desc: "Buscamos a la gente que se pone la camiseta. Te ayudamos a armar el equipo que no te deja solo.",
-      features: ["Búsqueda y Selección", "Cultura de alto rendimiento", "Inducción efectiva"]
+      desc: "Buscamos a la gente que se pone la camiseta. Te ayudamos a armar un equipo que no te deja solo.",
+      features: ["Búsqueda y Selección", "Cultura de alto rendimiento", "Inducción efectiva", "Desarrollo de Marca Empleadora"]
     },
     {
       title: "Capacitaciones In-Company",
       desc: "Herramientas reales para que tus mandos medios dejen de ser operativos y empiecen a liderar.",
-      features: ["Liderazgo Pyme", "Herramientas de gestión", "Ventas y CRM"]
+      features: ["Liderazgo Pyme", "Herramientas de gestión", "Ventas y CRM", "Trabajo en equipo y comunicación efectiva"]
     }
   ];
 
