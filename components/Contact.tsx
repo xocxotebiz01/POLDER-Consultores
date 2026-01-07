@@ -10,11 +10,11 @@ export const Contact: React.FC = () => {
             <span className="text-blue-600">llegar hasta acá.</span>
           </h2>
           <p className="text-xl text-slate-600 mb-12 leading-relaxed">
-            Te hiciste de abajo, te rompiste el alma y armaste algo valioso. No buscás a alguien que te venga a dar cátedra, buscás a alguien que te entienda y te cubra la espalda.
+            Te hiciste de abajo y armaste algo valioso. No buscás a alguien que te venga a dar cátedra, buscás a alguien que te entienda y te cubra la espalda.
           </p>
           
           <div className="inline-flex flex-col items-center gap-6 p-10 bg-slate-50 rounded-3xl border border-slate-100 shadow-xl">
-             <p className="font-bold text-slate-900 text-lg">¿Nos tomamos un café (o un chat) y vemos si podemos sumarte?</p>
+             <p className="font-bold text-slate-900 text-lg">¿Nos tomamos un café (o un chat)? Queremos ser parte de tu equipo! </p>
              <a 
               href="https://wa.me/5491168014839" 
               className="bg-green-500 text-white px-12 py-5 rounded-2xl font-black text-2xl hover:bg-green-600 transition shadow-2xl flex items-center justify-center gap-4 group"
