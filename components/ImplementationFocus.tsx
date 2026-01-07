@@ -7,7 +7,7 @@ export const ImplementationFocus: React.FC = () => {
         <div className="max-w-4xl">
           <h2 className="text-4xl md:text-5xl font-black mb-8 leading-tight">
             Buscamos <span className="text-blue-400 italic">mejoras y cambios</span> <br/>
-            percibibles desde el primer día.
+            con impacto desde el primer día.
           </h2>
           <p className="text-xl text-slate-400 mb-12 leading-relaxed">
             No te traemos planes eternos. Identificamos lo que nos traba hoy y le metemos manos a la obra para que el cambio se note rápido.
@@ -16,11 +16,11 @@ export const ImplementationFocus: React.FC = () => {
             <div>
               <h4 className="font-bold text-xl text-white mb-4 underline underline-offset-8 decoration-blue-500 decoration-4">Sumamos manos</h4>
               <p className="text-slate-400">
-                - A tu escala: desde destrabar un tema puntual hasta rediseñar la operación completa.
+                - Ayudamos a hacer realidad esos proyectos que hasta hoy no llegaste a hacer: desde alguna acción puntual hasta el rediseño completo de tu operación.
               </p>
             </div>
             <div>
-              <h4 className="font-bold text-xl text-white mb-4 underline underline-offset-8 decoration-blue-500 decoration-4">Aprovechar para pensar</h4>
+              <h4 className="font-bold text-xl text-white mb-4 underline underline-offset-8 decoration-blue-500 decoration-4">Una bocanada de aire fresco</h4>
               <p className="text-slate-400">
                 Aprovechamos la ejecución para frenar la pelota y rediseñar <span className="text-blue-300">lo que nos traba</span>. Ordenamos mientras hacemos.
               </p>
